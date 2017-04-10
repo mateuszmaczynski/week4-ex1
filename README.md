@@ -1,1 +1,1 @@
-Gra przeglądarkowa – twarde cegły
+Browser game - hard bricks
